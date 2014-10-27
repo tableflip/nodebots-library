@@ -18,14 +18,16 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 
 **The spirit of nodebots seems to be access to tools, toys, and tutors, so the idea behind the library it to help create an informal network of interested hackers.**
 
-| item | status | location | 
--------|--------|----------|
-| AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA 
-| Sphero | ✔ | JAILmake, London SE22 9BA
-| Arduino Uno | ✔✔✔✔ | JAILmake, London SE22 9BA
-| Pinoccio board | ✔ | JAILmake, London SE22 9BA
-| Tessel | ✔ | JAILmake, London SE22 9BA
-| Espruino | ✔✔ | JAILmake, London SE22 9BA
-| Logitech dual action usb controller | ✔ | JAILmake, London SE22 9BA
+| item | status | location | Thanks to |
+-------|--------|----------|------------------|
+| Dremel 3000 | ✔ | JAILmake, London SE22 9BA | @achingbrain
+| AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA | @olizilla
+| Crazy Flie | ✔ | JAILmake, London SE22 9BA | @_alanshaw
+| Sphero | ✔ | JAILmake, London SE22 9BA | @nodebotsSF
+| Arduino Uno | ✔✔✔✔ | JAILmake, London SE22 9BA | @nodebotsUK
+| Pinoccio board | ✔ | JAILmake, London SE22 9BA | @soldair
+| Tessel | ✔ | JAILmake, London SE22 9BA | @technicalhumans
+| Espruino | ✔✔ | JAILmake, London SE22 9BA | @olizilla
+| Logitech dual action usb controller | ✔ | JAILmake, London SE22 9BA | @olizilla
 
 
