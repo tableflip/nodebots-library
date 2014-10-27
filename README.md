@@ -22,6 +22,7 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 -------|--------|----------|
 | AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA 
 | Sphero | ✔ | JAILmake, London SE22 9BA
+| Arduino Uno | ✔✔✔✔ | JAILmake, London SE22 9BA
 | Pinoccio board | ✔ | JAILmake, London SE22 9BA
 | Tessel | ✔ | JAILmake, London SE22 9BA
 | Espruino | ✔✔ | JAILmake, London SE22 9BA
