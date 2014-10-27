@@ -1,5 +1,6 @@
 Nodebots Library
 ================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tableflip/nodebots-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **The NodeBots Esoteric Hardware Library &amp; Exchange Program**
 
