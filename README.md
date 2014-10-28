@@ -22,6 +22,7 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 | item | status | location | Thanks to |
 -------|--------|----------|------------------|
 | Dremel 3000 | ✔ | JAILmake, London SE22 9BA | @achingbrain
+| Sparkfun Inventors Kit | ✔ | JAILmake, London SE22 9BA | @nodebotsUK
 | AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA | @olizilla
 | Crazy Flie | ✔ | JAILmake, London SE22 9BA | @_alanshaw
 | Sphero | ✔ | JAILmake, London SE22 9BA | @nodebotsSF
