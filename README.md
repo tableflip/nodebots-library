@@ -22,14 +22,16 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 | item | status | location | Thanks to |
 -------|--------|----------|------------------|
 | Dremel 3000 | ✔ | JAILmake, London SE22 9BA | @achingbrain
-| Sparkfun Inventors Kit | ✔ | JAILmake, London SE22 9BA | @nodebotsUK
+| Sparkfun Inventors Kit | ✗ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH (Originally @ JAILmake, London SE22 9BA) | @nodebotsUK
 | AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA | @olizilla
 | Crazy Flie | ✔ | JAILmake, London SE22 9BA | @_alanshaw
-| Sphero | ✔ | JAILmake, London SE22 9BA | @nodebotsSF
-| Arduino Uno | ✔✔✔✔ | JAILmake, London SE22 9BA | @nodebotsUK
-| Pinoccio board | ✔ | JAILmake, London SE22 9BA | @soldair
+| Sphero | ✗ | JAILmake, London SE22 9BA | @nodebotsSF
+| Arduino Uno | ✔✔✔✗ | JAILmake, London SE22 9BA and pebble {code}, 1 at W214 Westminster Business Square, Durham St, London SE11 5JH | @nodebotsUK
+| Pinoccio board | ✗ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH (Originally @ JAILmake, London SE22 9BA) | @soldair
 | Tessel | ✔ | JAILmake, London SE22 9BA | @technicalhumans
-| Espruino | ✔✔ | JAILmake, London SE22 9BA | @olizilla
+| Espruino | ✗✗ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH (Originally @ JAILmake,  London SE22 9BA) | @olizilla
 | Logitech dual action usb controller | ✔ | JAILmake, London SE22 9BA | @olizilla
-
+| Wii Balance Board | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
+| Wii nunchuk | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
+| Intel Galileo 2 | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
 
