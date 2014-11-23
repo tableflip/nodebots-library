@@ -10,7 +10,7 @@ Create an inventory of all the strange and programmable items that we have in th
 
 Anyone can come borrow things for their own hack days. Participation is free, but it is encouraged that you add something to the library (don't be a leacher) and that you help teach someone what you learn whilst hacking with the borrowed item.
 
-Numerous companies in London have invested in drones and bots abd boards, and for the most part they sit idle, so all of these should be added to the inventory too.
+Numerous companies in London have invested in drones and bots and boards, and for the most part they sit idle, so all of these should be added to the inventory too.
 
 - List of things with owner and current custodian / whereabouts.
 - List of members.
@@ -24,7 +24,7 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 | Dremel 3000 | ✔ | JAILmake, London SE22 9BA | @achingbrain
 | Sparkfun Inventors Kit | ✗ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH (Originally @ JAILmake, London SE22 9BA) | @nodebotsUK
 | AR Drone 2.0 | ✔ | JAILmake, London SE22 9BA | @olizilla
-| Crazy Flie | ✔ | JAILmake, London SE22 9BA | @_alanshaw
+| Crazy Flie | ✔ | JAILmake, London SE22 9BA | @alanshaw
 | Sphero | ✗ | JAILmake, London SE22 9BA | @nodebotsSF
 | Arduino Uno | ✔✔✔✗ | JAILmake, London SE22 9BA and pebble {code}, 1 at W214 Westminster Business Square, Durham St, London SE11 5JH | @nodebotsUK
 | Pinoccio board | ✗ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH (Originally @ JAILmake, London SE22 9BA) | @soldair
@@ -34,4 +34,6 @@ As an example, we took the entire collection up to OxfordJS for a hack day there
 | Wii Balance Board | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
 | Wii nunchuk | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
 | Intel Galileo 2 | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
+
+
 
