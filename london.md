@@ -1,8 +1,15 @@
-#London
+# London - UK
 
-Country : United Kingdoms
+Come say hi on gitter: https://gitter.im/tableflip/nodebot-workshop
 
-### Toys
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tableflip/nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+- [@NodeBotsUK](https://twitter.com/nodebotsuk) : NodeBots of London
+- @achingbrain - Nodebots of London organiser
+- @alanshaw - Nodebots of London organiser
+- @olizilla - Nodebots of London organiser
+
+## Things
 
 | item | status | location | Thanks to |
 -------|--------|----------|------------------|
@@ -20,19 +27,8 @@ Country : United Kingdoms
 | Intel Galileo 2 | ✔ | pebble {code}, W214 Westminster Business Square, Durham St, London SE11 5JH | @zlog
 
 
-### Tools
+## Tools
 
 | item | status | location | Thanks to |
 -------|--------|----------|------------------|
 | Dremel 3000 | ✔ | JAILmake, London SE22 9BA | @achingbrain
-
-### Contacts 
-
-Come say hi on gitter: https://gitter.im/tableflip/nodebot-workshop
-
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tableflip/nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-- [@NodeBotsUK](https://twitter.com/nodebotsuk) : NodeBots of London
-- @achingbrain - Nodebots of London organiser
-- @alanshaw - Nodebots of London organiser
-- @olizilla - Nodebots of London organiser
