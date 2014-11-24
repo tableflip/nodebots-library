@@ -17,9 +17,9 @@ Numerous companies have invested in drones and bots and boards, and for the most
 
 As an example, we took the entire collection up to OxfordJS for a hack day there and it was much fun.
 
-**The spirit of nodebots seems to be access to tools, toys, and tutors, so the idea behind the library it to help create an informal network of interested hackers.**
+**The spirit of nodebots seems to be access to tools, toys, and tutors, so the idea behind the library is to help create an informal network of interested hackers.**
 
-here is a link to cites where tools and hackers are available
+Links to cities where tools and hackers are available:
 
 - [London](london.md)
 - [Paris](paris.md)

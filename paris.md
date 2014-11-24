@@ -2,7 +2,7 @@
 
 Country : France
 
-###toys
+### Toys
 
 | item | status | location | Thanks to |
 -------|--------|----------|------------------|
