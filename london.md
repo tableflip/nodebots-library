@@ -28,4 +28,11 @@ Country : United Kingdoms
 
 ### Contacts 
 
-@lesnodebots : Paris nodebot's chapter
+Come say hi on gitter: https://gitter.im/tableflip/nodebot-workshop
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tableflip/nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+- [@NodeBotsUK](https://twitter.com/nodebotsuk) : NodeBots of London
+- @achingbrain - Nodebots of London organiser
+- @alanshaw - Nodebots of London organiser
+- @olizilla - Nodebots of London organiser
