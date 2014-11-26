@@ -1,0 +1,154 @@
+body {
+  background: #F7D115;
+  margin:0;
+  font-family: Helvetica, sans-serif;
+}
+.logo {
+  font-family: Helvetica, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  letter-spacing: 22px;
+  text-transform: uppercase;
+  padding:12px 0px 16px 0px;
+}
+.logo:before {
+  content:'';
+  display:inline-block;
+  height:50px;
+  width:50px;
+  background: transparent url('/svg/nodebot-black.svg') no-repeat center;
+  vertical-align: -9px;
+  margin:0 20px;
+}
+h1{
+  font-family: Helvetica, sans-serif;
+  font-size: 64px;
+  line-height: 77px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  background:white;
+  padding:20px 0px 10px 85px;
+  border: 4px black;
+  border-style:solid none;
+  margin:0 0 20px 0;
+}
+h1 .title {
+  max-width:300px;
+}
+div[role="main"] {
+  padding: 20px 20px 40px 90px;
+}
+.table {
+  font-family:Courier, monospace;
+  font-size: 14px;
+  background: white;
+  border: solid 4px black;
+  border-top:none;
+  border-collapse: collapse;
+  min-width:calc(100% - 90px);
+}
+.table th,
+.table td{
+  text-align: left;
+}
+.table th{
+  background: black;
+  color:white;
+  font-family: Gill Sans, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  padding: 8px 8px;
+}
+.table td{
+  padding: 10px 10px;
+  border-bottom:solid 1px ghostwhite;
+  text-align: left;
+  color:darkslategray;
+}
+.table tr:hover td{
+  color: black;
+  background: cornsilk;
+}
+.table-bots tr td:first-child{
+  max-width: 260px;
+  color: black;
+  font-size:16px;
+}
+
+/*
+header:after{
+    content:'';
+    display: block;
+
+    clip-path: url('svg/hex.svg#hexoclip');
+
+    width:636px;
+    height:734px;
+
+    position: relative;
+    left: 456px;
+    top: -183px;
+
+    background:
+        url('svg/hex.svg') no-repeat center,
+        url('jpg/people.jpg') no-repeat center 183px;
+}
+*/
+
+.thing-form {
+  display: block;
+  margin:0 0 40px 0;
+  width:calc(100% - 90px);
+}
+.thing-form .btn-group{
+  text-align: right;
+}
+.form-group{
+  width: 50%;
+  display:inline-block;
+  margin:0 0 4px;
+  padding:0;
+}
+.form-group label {
+  font-family: Gill Sans, Helvetica, Arial, sans-serif;
+  font-size:12px;
+  letter-spacing: 1px;
+  display: inline;
+  margin:0;
+  padding:2px 6px;
+  background: #F7D115;
+}
+.form-group input[type="text"] {
+  border: 0 none;
+  background: rgba(100,100,100,0.1);
+  display: block;
+  width:calc(100% - 20px);
+  margin:-10px 0 0 0;
+  font-family: Courier, monospace;
+  font-size:18px;
+  padding:14px 10px;
+}
+
+#login-buttons {
+  float:right;
+  margin:-54px 90px 0 0;
+  font-family: Gill Sans, Helvetica, Arial, sans-serif;
+}
+.btn,
+#login-buttons .login-button,
+.accounts-dialog .login-button {
+  background: transparent;
+  color: black;
+  border:solid 3px black;
+  border-radius:3px;
+  padding: 4px 8px;
+  font-family: Gill Sans, Helvetica, Arial, sans-serif;
+  transition:background 0.2s linear;
+}
+.btn:hover,
+#login-buttons .login-button:hover,
+.accounts-dialog .login-button:hover {
+  background: white;
+}
+

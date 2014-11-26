@@ -1,0 +1,132 @@
+<head>
+  <meta charset="UTF-8">
+  <title>NodeBots Esoteric Hardware Library</title>
+</head>
+<body>
+<header>
+  <div class="logo">Nodebots</div>
+  {{> loginButtons align="right"}}
+  <h1>
+      <div class="title">Esoteric Hardware Library</div>
+  </h1>
+</header>
+<div role="main">
+
+{{#if currentUser}}
+  {{> addThing }}
+{{/if}}
+
+{{> things }}
+</div>
+</body>
+
+<template name="addThing">
+  <form class="thing-form">
+      <div class="form-group">
+          <label for="thing-name">Thing</label>
+          <input class="form-control" name="thingName" type="text"/>
+      </div><div class="form-group">
+          <label for="thing-contact">Contact</label>
+          <input class="form-control" name="thingContact" type="text" value="{{currentUser.services.github.username}}" />
+      </div><div class="form-group">
+          <label for="thing-location">Location</label>
+          <input class="form-control" name="thingLocation" type="text"/>
+      </div><div class="form-group">
+          <label for="thing-thanks">Thanks</label>
+          <input class="form-control" name="thingThanks" type="text" value="{{currentUser.services.github.username}}" />
+      </div>
+      <div class="btn-group">
+          <button class="btn">Add</button>
+      </div>
+  </form>
+</template> 
+
+<template name="things">
+  <table class="table table-bots">
+      <thead>
+      <tr>
+          <th>Thing</th>
+          <th>Contact</th>
+          <th>Location</th>
+          <th>Thanks to</th>
+      </tr>
+      </thead>
+      <tbody>
+      {{#each all}}
+      <tr>
+          <td>{{name}}</td>
+          <td>{{contact}}</td>
+          <td>{{location}}</td>
+          <td>{{thanks}}</td>
+      </tr>
+      {{/each}}
+      <!---->
+      <!--<tr>-->
+          <!--<td>Sparkfun Inventors Kit</td>-->
+          <!--<td>@tak</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>TABLEFLIP</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Crazy Flie</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>JAILmake, London SE22 9BA</td>-->
+          <!--<td>@_alanshaw</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Sphero</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>JAILmake, London SE22 9BA</td>-->
+          <!--<td>@nodebotsSF</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Arduino Uno</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>JAILmake, London SE22 9BA</td>-->
+          <!--<td>@JAILmake</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Pinoccio board</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>@soldair</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Tessel</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>JAILmake, London SE22 9BA</td>-->
+          <!--<td>@technicalhumans</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Espruino</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>@olizilla</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Logitech dual action usb controller</td>-->
+          <!--<td>@nodebotsUK</td>-->
+          <!--<td>JAILmake, London SE22 9BA</td>-->
+          <!--<td>@olizilla</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Wii Balance Board</td>-->
+          <!--<td>@zlog</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>pebble {code}</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Wii nunchuk</td>-->
+          <!--<td>@zlog</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>pebble {code}</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+          <!--<td>Intel Galileo 2</td>-->
+          <!--<td>@zlog</td>-->
+          <!--<td>pebble {code}, London SE11 5JH</td>-->
+          <!--<td>pebble {code}</td>-->
+      <!--</tr>-->
+      </tbody>
+  </table>
+</template>
