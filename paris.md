@@ -11,7 +11,7 @@ Country : France
 | Funduino Uno | ✔✔✔✔ | Catbot factory, paris 18 | @gorhgorh |
 | Tessel | ✔ | Catbot factory, paris 18 | @gorhgorh |
 | Wii nunchuk | ✔ | Catbot factory, paris 18 | @gorhgorh |
-
+| Sensortag | ✔ | Gennevilliers Faclab | @gorhgorh |
 
 ### Tools
 
